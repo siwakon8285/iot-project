@@ -1,4 +1,4 @@
-"""Alembic migration environment for the AI Smart Room database."""
+"""Alembic migration environment for the AI Smart Health Environment database."""
 
 from logging.config import fileConfig
 from pathlib import Path

@@ -1,4 +1,4 @@
-"""Pydantic schemas for the AI Smart Room API."""
+"""Pydantic schemas for the AI Smart Health Environment API."""
 
 from datetime import datetime
 from typing import Literal, Optional

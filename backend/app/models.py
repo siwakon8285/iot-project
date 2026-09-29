@@ -1,4 +1,4 @@
-"""SQLAlchemy ORM models for the AI Smart Room backend."""
+"""SQLAlchemy ORM models for the AI Smart Health Environment backend."""
 
 from datetime import datetime
 from typing import Optional

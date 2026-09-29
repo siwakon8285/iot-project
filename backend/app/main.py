@@ -1,4 +1,4 @@
-"""FastAPI application for the AI Smart Room backend."""
+"""FastAPI application for AI Smart Health Environment."""
 
 from fastapi import Depends, FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
@@ -19,8 +19,8 @@ from .status import generate_recommendation, resolve_status
 
 
 app = FastAPI(
-    title="AI Smart Room API",
-    description="Minimal telemetry API for the AI Smart Room project.",
+    title="AI Smart Health Environment API",
+    description="Environmental telemetry and personalized AI assessment API.",
     version="0.1.0",
 )
 

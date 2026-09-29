@@ -1,4 +1,4 @@
-"""Configured room-status and environmental recommendation rules."""
+"""Configured environmental status and recommendation rules."""
 
 from typing import Dict, List, Optional
 

@@ -1,1 +1,1 @@
-"""AI Smart Room backend application."""
+"""AI Smart Health Environment backend application."""
